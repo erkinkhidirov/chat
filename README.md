@@ -1,5 +1,7 @@
 # Video Chat
 
+![alt text](https://cdn.shomla.com/shomla/blog/resized/b1_1_res.jpeg)
+
 One way of communication in our dynamic world is through video chat roulette. What is it and why has it become so popular?
 
 What is Shomla video chat roulette?
