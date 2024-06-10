@@ -6,7 +6,7 @@ One way of communication in our dynamic world is through video chat roulette. Wh
 
 What is Shomla video chat roulette?
 
-Shomla video chat roulette is an online service that allows users to communicate via video with random interlocutors from all over the world. All you need is a camera, microphone, and internet access. The service automatically connects you with another user, and you can start chatting. If you don't like the interlocutor, you can always switch to the next person with a simple gesture.
+Shomla <a href="https://shomla.com/">video chat</a> roulette is an online service that allows users to communicate via video with random interlocutors from all over the world. All you need is a camera, microphone, and internet access. The service automatically connects you with another user, and you can start chatting. If you don't like the interlocutor, you can always switch to the next person with a simple gesture.
 
 Advantages of video chat roulette:
 Ease of use: No registration or complex settings are required to start communicating. Just go to the website, turn on your camera and microphone, and you're good to go.
